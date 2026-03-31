@@ -1,6 +1,6 @@
 # aura_chess
 
-A new Flutter project.
+A chess game with a bot that plays chess. It has a function that allows players to create their own chessboards with some interesting pieces like dragons and lions. Players can also set their own promotion rules and limits on the area where certain pieces can move. The specially designed AI system helps it understand special pieces and additional rules. However, further optimization is still needed.
 
 ## Getting Started
 
